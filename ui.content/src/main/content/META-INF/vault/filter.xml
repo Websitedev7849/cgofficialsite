@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/cgofficalsite" mode="merge"/>
+    <filter root="/content/cgofficalsite" mode="merge"/>
+    <filter root="/content/dam/cgofficalsite" mode="merge"/>
+    <filter root="/content/experience-fragments/cgofficalsite" mode="merge"/>
+</workspaceFilter>
